@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d6b3138f.css",
-    "main.js": "/react-gh-pages/static/js/main.af3a6fe1.js",
-    "static/js/453.ed3810f9.chunk.js": "/react-gh-pages/static/js/453.ed3810f9.chunk.js",
-    "static/media/task_5.png": "/react-gh-pages/static/media/task_5.7187d0deedda0717babf.png",
-    "static/media/man_eating.jpg": "/react-gh-pages/static/media/man_eating.45a49a244c6fee89e156.jpg",
-    "static/media/task_3.png": "/react-gh-pages/static/media/task_3.add70413733fd8913ab1.png",
-    "static/media/task_4.png": "/react-gh-pages/static/media/task_4.32c0c437a561632706f3.png",
-    "static/media/task_6.png": "/react-gh-pages/static/media/task_6.71e24ee76f1a3ae9a3c6.png",
-    "static/media/task_2.png": "/react-gh-pages/static/media/task_2.681ab8ee654eb2fde4ba.png",
-    "static/media/task_1.png": "/react-gh-pages/static/media/task_1.ca39c57329774bc8106a.png",
-    "static/media/opening.jpg": "/react-gh-pages/static/media/opening.8c1c47b45f004230a0b3.jpg",
-    "static/media/task_color.jpg": "/react-gh-pages/static/media/task_color.78534fd80fd06f00d508.jpg",
-    "static/media/cooks.jpg": "/react-gh-pages/static/media/cooks.8fefc92a0a9c8772148e.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d6b3138f.css.map": "/react-gh-pages/static/css/main.d6b3138f.css.map",
-    "main.af3a6fe1.js.map": "/react-gh-pages/static/js/main.af3a6fe1.js.map",
-    "453.ed3810f9.chunk.js.map": "/react-gh-pages/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/task.github.io/static/css/main.d6b3138f.css",
+    "main.js": "/task.github.io/static/js/main.0a78328d.js",
+    "static/js/453.ed3810f9.chunk.js": "/task.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/task_5.png": "/task.github.io/static/media/task_5.7187d0deedda0717babf.png",
+    "static/media/man_eating.jpg": "/task.github.io/static/media/man_eating.45a49a244c6fee89e156.jpg",
+    "static/media/task_3.png": "/task.github.io/static/media/task_3.add70413733fd8913ab1.png",
+    "static/media/task_4.png": "/task.github.io/static/media/task_4.32c0c437a561632706f3.png",
+    "static/media/task_6.png": "/task.github.io/static/media/task_6.71e24ee76f1a3ae9a3c6.png",
+    "static/media/task_2.png": "/task.github.io/static/media/task_2.681ab8ee654eb2fde4ba.png",
+    "static/media/task_1.png": "/task.github.io/static/media/task_1.ca39c57329774bc8106a.png",
+    "static/media/opening.jpg": "/task.github.io/static/media/opening.8c1c47b45f004230a0b3.jpg",
+    "static/media/task_color.jpg": "/task.github.io/static/media/task_color.78534fd80fd06f00d508.jpg",
+    "static/media/cooks.jpg": "/task.github.io/static/media/cooks.8fefc92a0a9c8772148e.jpg",
+    "index.html": "/task.github.io/index.html",
+    "main.d6b3138f.css.map": "/task.github.io/static/css/main.d6b3138f.css.map",
+    "main.0a78328d.js.map": "/task.github.io/static/js/main.0a78328d.js.map",
+    "453.ed3810f9.chunk.js.map": "/task.github.io/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6b3138f.css",
-    "static/js/main.af3a6fe1.js"
+    "static/js/main.0a78328d.js"
   ]
 }
