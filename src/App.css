@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+#topButton{
+  background-color: transparent;
+  color:black;
+  border-width: 0px;
+  padding-right: 7%;
+  font-size: 2vw;
+}
+
+#task1logo{
+  width: 20%;
+  padding-right: 7%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.parent-container {
+  position: relative;
+}
+.whatDoWeDo{
+  background-color:#13598b;
+  padding-bottom:10%;
+  color: white;
+  font-size: 2.5vw;
+}
+.box {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 40%;
+  height: 90%;
+  text-align: center;
+  background-color: #cd853f;
+  margin-left: -20%; 
+  margin-top: 2%;
+  font-size:2.4vw;
+}
+
+.squares{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  .square{
+    width: 31%;
+    height: 100;
+    padding-bottom:1%;
+    background-color: #d3d3d3;
+    color:black;
+    font-weight: lighter;
+  }
+  #squareOne{
+    margin-left: 1%;
+  }
+  #squareImg{
+    width:29.5vw;
+    height: 15vw;
+  }
+  #squareThree{
+    margin-right: 1%;
+  }
+}
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 10vw;
+  height: 80%;
+  width: 80%;
+  position: absolute;
+}
+
+.riseUp{
+  background-color: #cd853f;
+}
+.contactSection{
+  justify-content: center;
+}
+.horizontalBar{
+  width:80%;
+  background-color: rgb(78, 73, 73);
+}
