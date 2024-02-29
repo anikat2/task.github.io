@@ -127,7 +127,16 @@ function App() {
       </Swiper>
       </div>
 
-      <div class = "contactSection"><div class = "horizontalBar"></div></div>
+      <div class = "contactSection">
+        <div class = "horizontalBar"></div>
+        <div class = "others">
+          <h2>Contact Us:</h2>
+          <div class = "contactInfo">
+            <h3>Email: milanmendu@gmail.com</h3>
+            <h3>Phone number: xxx-xxx-xxxx</h3>
+          </div>
+        </div>
+      </div>
 
     </div>
   );

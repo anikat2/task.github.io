@@ -99,8 +99,21 @@
 }
 .contactSection{
   justify-content: center;
+  text-align: center;
 }
 .horizontalBar{
+  margin-top: 3%;
+  margin-bottom: 3%;
+  margin-left: 10%;
   width:80%;
+  height: 1vw;
   background-color: rgb(78, 73, 73);
+}
+.others{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size:1.6vw;
 }
